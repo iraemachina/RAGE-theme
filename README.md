@@ -4,7 +4,6 @@ A dark, high-contrast theme for [Zed](https://zed.dev) designed with bold syntax
 
 ![RAGE Theme Preview](./theme.png)
 
----
 
 ## 📦 Installation
 
